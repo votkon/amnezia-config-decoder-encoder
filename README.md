@@ -1,6 +1,6 @@
-# VPN Config Codec
+# AmneziaVPN Config Codec
 
-Welcome to the VPN Config Codec repository! This toolkit is designed to encode and decode VPN configurations using a combination of compression, base64 encoding, and JSON serialization techniques. It's ideal for developers and system administrators who need a reliable method to share and manage VPN settings in a compact, URL-friendly string format.
+This toolkit is designed to encode and decode VPN configurations using a combination of compression, base64 encoding, and JSON serialization techniques. It's ideal for developers and system administrators who need a reliable method to share and manage VPN settings in a compact, URL-friendly string format.
 
 ## Getting Started
 
